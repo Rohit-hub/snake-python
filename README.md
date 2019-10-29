@@ -5,7 +5,7 @@ Snake in Python is also the greatest joke that has ever been dreamt up.
 
 ## Goal
 
-The player must used the arrow keys to guide the snake along the play area, eating as many fruits as possible without hitting itself or the walls.
+The player must use the arrow keys to guide the snake along the play area, eating as many fruits as possible without hitting itself or the walls.
 
 When the snake runs into a fruit, it is eaten and the snake will become one segment longer, making it harder to avoid hitting yourself as the game progresses.
 
